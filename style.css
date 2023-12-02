@@ -1,0 +1,74 @@
+.container {
+    width: 1500px;
+    margin: 0 auto;
+   
+}
+.header {
+    justify-content: space-between;
+    display: flex;
+    height: 50px;
+}
+.header-list {
+    display: flex;
+    font-size: 32px;
+    vertical-align: middle;
+    list-style-type: none;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+    white-space: 20px;
+    
+}
+.list-item a {
+    text-decoration: none;
+    color: black;
+
+}
+.list-item {
+    margin-right: 10px;
+}
+.button {
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    border-radius: 6px;
+    background: #3A5F56;
+    border: none;
+    height: 60px;
+}
+
+.gradient {
+    width: 1800px;
+    height:1200px;
+    background-image: linear-gradient(to right top, #CDA58C, #F4F3F0,#F4F3F0,#F4F3F0, #A9B7B2);
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    gap: 188px;
+}
+.myphoto {
+    border-radius: 25px;
+    margin-top: 100px;
+
+}
+
+.button1 {
+    width: 90px;
+    height: 45px;
+    color: white;
+    text-align: center;
+   border: none;
+    border-radius: 6px;
+background: #3A5F56;
+}
+.main-section {
+    margin-left: 120px;
+    margin-top: 450px;
+}
+.main-text {
+    font-size: 36px;
+    
+}
+.main-section p {
+    font-size: 20px;
+}
